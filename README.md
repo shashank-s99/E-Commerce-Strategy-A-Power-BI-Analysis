@@ -34,12 +34,12 @@ This project leverages Power BI to analyze e-commerce data, uncovering key insig
 
 * Power BI Dashboard Development:
 
-Designed an interactive dashboard with visualizations showcasing:
-  - Total sales, order trends, sales forecasts, and year-over-year growth.
-  - Customer spending patterns, demographics, and retention rates.
-  - Product popularity, order size, and shipping costs.
-  - Geographical sales distribution and top-performing countries.
-  - Membership impact on order frequency and spending.
+   Designed an interactive dashboard with visualizations showcasing:
+   - Total sales, order trends, sales forecasts, and year-over-year growth.
+   - Customer spending patterns, demographics, and retention rates.
+   - Product popularity, order size, and shipping costs.
+   - Geographical sales distribution and top-performing countries.
+   - Membership impact on order frequency and spending.
 
 **Power BI Dashboard Link:**
 
