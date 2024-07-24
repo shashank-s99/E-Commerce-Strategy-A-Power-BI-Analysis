@@ -21,25 +21,25 @@ This project leverages Power BI to analyze e-commerce data, uncovering key insig
 
 * Data Integration and Cleaning:
 
-- Imported and merged datasets in Power BI.
-- Handled missing values and irrelevant data.
-- Transformed data types for consistency.
-- Created calculated columns (e.g., order value).
+  - Imported and merged datasets in Power BI.
+  - Handled missing values and irrelevant data.
+  - Transformed data types for consistency.
+  - Created calculated columns (e.g., order value).
 
 * Data Modeling and DAX Analysis:
 
-- Developed a data model to establish relationships between tables.
-- Utilized DAX functions to calculate key metrics (e.g., average order value, customer spending tiers, retention rate, year-over-year sales growth, customer lifetime value).
-- Performed cohort analysis to understand customer behavior over time.
+  - Developed a data model to establish relationships between tables.
+  - Utilized DAX functions to calculate key metrics (e.g., average order value, customer spending tiers, retention rate, year-over-year sales growth, customer lifetime value).
+  - Performed cohort analysis to understand customer behavior over time.
 
-*Power BI Dashboard Development:
+* Power BI Dashboard Development:
 
 Designed an interactive dashboard with visualizations showcasing:
-- Total sales, order trends, sales forecasts, and year-over-year growth.
-- Customer spending patterns, demographics, and retention rates.
-- Product popularity, order size, and shipping costs.
-- Geographical sales distribution and top-performing countries.
-- Membership impact on order frequency and spending.
+  - Total sales, order trends, sales forecasts, and year-over-year growth.
+  - Customer spending patterns, demographics, and retention rates.
+  - Product popularity, order size, and shipping costs.
+  - Geographical sales distribution and top-performing countries.
+  - Membership impact on order frequency and spending.
 
 **Power BI Dashboard Link:**
 
