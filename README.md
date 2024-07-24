@@ -43,7 +43,7 @@ This project leverages Power BI to analyze e-commerce data, uncovering key insig
 
 **Power BI Dashboard Link:**
 
-[Insert Link to Your Power BI Dashboard Here]
+https://www.novypro.com/profile_projects/shashanksingh?Popup=memberProject&Data=1721838398428x638320004439806300
 
 **Key Findings and Insights:**
 
